@@ -1,0 +1,6 @@
+.venv
+utils/.env
+.env
+utils/openai_api_key.txt
+.cache
+utis/__pycache__/
